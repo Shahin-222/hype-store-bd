@@ -1,2 +1,2 @@
-# hype-store-bd
-Simple HTML CSS E-commerce Website Design
+# thehypestorebd.com
+E-Commerce Website
